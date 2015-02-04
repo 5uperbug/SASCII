@@ -14,6 +14,7 @@
             hideOutputControls();
             showInputControls();
             $('#txtInput').val('');
+            $("#txtOutput").val('');
         });
 
         //Generate awesomesuace ASCII Art
